@@ -1,3 +1,3 @@
-# Exercise 11.20
+# Exercise 11.1-11.19
 
-https://github.com/ngc6720/fso-part-11-bloglist
+Exercise 11.20 at https://github.com/ngc6720/fso-part-11-bloglist
